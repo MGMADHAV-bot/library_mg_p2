@@ -18,7 +18,8 @@ This project demonstrates the implementation of a Library Management System usin
 4. **Advanced SQL Queries**: Develop complex queries to analyze and retrieve specific data.
 
 ## Project Structure
-![Database ER Diagram](me2dr.png)
+<img width="1305" height="756" alt="me2dr pgerd" src="https://github.com/user-attachments/assets/d3d542f5-624f-48e5-8a8f-95f9b3705ce2" />
+
 
 ### 1. Database Setup
 
